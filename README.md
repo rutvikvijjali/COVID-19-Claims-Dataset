@@ -16,6 +16,9 @@ For more information about the dataset creation, statistics and data collection,
 ### Note
 This is an evolving dataset and more data may be added in the future.
 
+### License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/2.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/2.0/88x31.png" /></a><br />This dataset is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/2.0/">Creative Commons Attribution-NonCommercial 2.0 Generic License</a>.
+
 ## Acknowledgments
 This data has been collected from [Poynter](https://www.poynter.org/ifcn/) and we thank folks at Poynter for their amazing work on Fact Checking.
 
